@@ -1,11 +1,5 @@
 # Introduction-to-Computer-Science-and-Programming-Using-Python
 
-You do not have to read through these at the start of the course. Come back to these resources as the course progresses! 
-
-Add your own at the end of the list, by clicking "Show related resources", and rate ones you found useful!
-
-If you're having trouble with a particular concept or simply want to have access to more information, try one of the following links.
-
 Documentation
 
 Official Python 3 Documentation - "official"/technical explanation of what a particular function/operator does, examples of correct syntax, what the various libraries are, etc.
