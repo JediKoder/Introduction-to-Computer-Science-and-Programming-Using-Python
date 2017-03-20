@@ -1,4 +1,4 @@
-# The 6.00 Word Game
+#  The 6.00 Word Game
 
 import random
 import string
